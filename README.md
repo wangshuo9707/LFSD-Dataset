@@ -1,6 +1,6 @@
 # LFSD-Dataset
 
-The Lettuce Farm SLAM Dataset (LFSD) consists of RGB and depth images, IMU, and RTK-GPS sensor data. Due to the large amount of storage in the dataset, you can access the following links to obtain complete image data.
+The Lettuce Farm SLAM Dataset (LFSD) consists of RGB and depth images, IMU, and RTK-GPS sensor data. Due to the large amount of storage in the dataset, you can access the following links to obtain complete data.
 
 Sequence1
 
