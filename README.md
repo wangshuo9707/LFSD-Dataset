@@ -19,3 +19,22 @@ https://mega.nz/folder/OI5CiITb#ogKs3AvBhslBkeOSzdZL4g
 Sequence4
 
 https://mega.nz/folder/vRoQiYIR#hmDfF3wXTSj6LW8FZXSDCw
+
+Sequence5
+
+https://mega.nz/folder/UbFyyLoZ#yi0THFy0OVSieDWZwGtEOQ
+
+Sequence6
+
+https://mega.nz/folder/xeFxmZZb#xpXMAl4DIWN91PENy8eMaQ
+
+Sequence7
+
+https://mega.nz/folder/0LtAnDhR#SZNzfSXkxuA44zTBXzoygA
+
+Sequence8
+
+https://mega.nz/folder/wXdmADxI#fcRpTSzCfG7G9KfxSeP52g
+
+
+
