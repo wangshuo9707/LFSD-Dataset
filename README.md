@@ -2,6 +2,9 @@
 
 The Lettuce Farm SLAM Dataset (LFSD) consists of RGB and depth images, IMU, and RTK-GPS sensor data. Due to the large amount of storage in the dataset, you can access the following links to obtain complete data.
 
+image_imu_GPS_to_rosbag.py files can convert standard files (*.txt and *.jpg) into bag files in ROS1 and ROS2.
+MOT_to_VOC.py files can convert MOT annotation files to target detection annotation files in VOC dataset format.
+
 Sequence1
 
 https://mega.nz/folder/JEkgTLoS#DSfA9m62-iZ9v06NhwYi2g
